@@ -42,6 +42,6 @@ With my lack of longterm experience in coding comes a malleability and eagerness
 **King’s College London** (December 2011 to Present)    
 *Records Officer*  
 **Prospectus** (October 2008 to December 2011)
-*Administrative Temp*   
+*Administrative Temp*
 **Last.fm** (March 2008 to September 2008)   
 *Customer Services* 
