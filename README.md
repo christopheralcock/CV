@@ -1,48 +1,47 @@
-## Your Name
+## Christopher Alcock
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I solve problems. Having graduated from Makers Academy in October 2015, I’m looking for a junior developer role at a company that values TDD and strong staff development.
 
 ## Skills
 
-#### This Skill
+#### Problem solving
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+I’m very good at taking large problems, breaking them down into smaller problems and concisely communicating them to others.
 
-- Experience
-- Achievements
-- Evidence
+My actual job experience is rubbish, and this I’m in the midst of making this career change.  In my personal life I take a lead on organising things and getting people to the right places at the right times and I’m good at keeping track of stuff.  I’ve played in bands and organised gigs and tours and accommodation and transport.
 
-#### Another Skill
+#### Communication
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+I’ve an English degree and used to write music reviews for various websites before the ubiquity of music streaming made descriptive and opinionated writing on music itself fairly redundant.  I retain an ability to sum things up effectively yet thoroughly.
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+My medium profile from my time at Makers (https://medium.com/@christopheralcock) demonstrates this fairly well.
+
+#### Malleability
+
+With my lack of longterm experience in coding comes a malleability and eagerness to learn new things, giving any company that hires me the opportunity to shape me in the image of their ideal developer.  I know exactly how you’d use rails to get a site up and working but have no interest in using it for the sake of it or out of comfortable habit.
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (July 2015 to October 2015)
 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
+- OOP, TDD, SOLID, MVC
 - Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
+- Ruby, Rails, Javascript
+- Rspec, Jasmine, Cucumber
 
-#### Your University / College (start_date to end_date)
+#### Bangor University (September 2003 to July 2006)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
-
-#### Any other qualifications
+- English Literature, with a dissertation on poststructuralist notions of authorship in music and music journalism
+- 2:1
+- Music editor of university newspaper
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**King’s College London** (December 2011 to Present)    
+*Records Officer*  
+**Prospectus** (October 2008 to December 2011)
+*Administrative Temp*   
+**Last.fm** (March 2008 to September 2008)   
+*Customer Services* 
