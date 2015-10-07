@@ -8,7 +8,7 @@ I solve problems. Having graduated from Makers Academy in October 2015, I’m lo
 
 I’m very good at taking large problems, breaking them down into smaller problems and concisely communicating them to others.
 
-My actual job experience is rubbish, and thus I’m in the midst of making this career change.  In my personal life I take a lead on organising things and getting people to the right places at the right times and I’m good at keeping track of stuff.  I’ve played in bands and organised gigs and tours and accommodation and transport.
+My actual job experience isn't exciting, hence this career change, but from it I've become adept at getting along with people in an office environment and general soft professional skills. In my personal life I take a lead on organising things and getting people to the right places at the right times and I’m good at keeping track of stuff.  I’ve played in bands and organised gigs and tours and accommodation and transport.
 
 #### Communication
 
