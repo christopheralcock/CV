@@ -8,7 +8,7 @@ I solve problems. Having graduated from Makers Academy in October 2015, I’m lo
 
 I’m very good at taking large problems, breaking them down into smaller problems and concisely communicating them to others.
 
-My actual job experience is rubbish, and this I’m in the midst of making this career change.  In my personal life I take a lead on organising things and getting people to the right places at the right times and I’m good at keeping track of stuff.  I’ve played in bands and organised gigs and tours and accommodation and transport.
+My actual job experience is rubbish, and thus I’m in the midst of making this career change.  In my personal life I take a lead on organising things and getting people to the right places at the right times and I’m good at keeping track of stuff.  I’ve played in bands and organised gigs and tours and accommodation and transport.
 
 #### Communication
 
@@ -18,7 +18,7 @@ My medium profile from my time at Makers (https://medium.com/@christopheralcock)
 
 #### Malleability
 
-With my lack of longterm experience in coding comes a malleability and eagerness to learn new things, giving any company that hires me the opportunity to shape me in the image of their ideal developer.  I know exactly how you’d use rails to get a site up and working but have no interest in using it for the sake of it or out of comfortable habit.
+With my lack of longterm experience in coding comes a malleability and eagerness to learn new things, giving any company that hires me the opportunity to shape me in the image of their ideal developer.  I know exactly how one would use rails to get a site up and working but have no interest in using it for the sake of it or out of habitual comfort.
 
 ## Education
 
