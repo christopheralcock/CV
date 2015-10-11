@@ -29,11 +29,11 @@ With my lack of longterm experience in coding comes a malleability and eagerness
 
 #### Makers Academy (July 2015 to October 2015)
 
-- Curiosity and hungry passion for code
-- Independent learner and problem-solver
+- Independent learning and problem-solving
+- (but also) Pair Programming
 - OOP, TDD, SOLID, MVC
 - Software Craftsmanship
-- Git flow
+- [Git flow](https://github.com/christopheralcock/live-voting/branches/all)
 - [Ruby](https://github.com/christopheralcock/labweek), [Rails](https://github.com/christopheralcock/live-voting), [Java](https://github.com/christopheralcock/todo_challenge)[Script](http://variousmusicappsofchris.herokuapp.com/omnichord)
 - [Rspec](https://github.com/christopheralcock/live-voting/tree/master/spec), [Jasmine](https://github.com/christopheralcock/bowling-challenge/blob/master/spec/ScorecardSpec.js), [Cucumber](https://github.com/christopheralcock/labweek/tree/master/features)
 
