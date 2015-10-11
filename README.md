@@ -22,7 +22,8 @@ My Medium profile from my time at Makers (https://medium.com/@christopheralcock)
 With my lack of longterm experience in coding comes a malleability and eagerness to learn new things, giving any company that hires me the opportunity to shape me in the image of their ideal developer.  I know exactly how one would use Rails to get a site up and working but have no interest in using it just for the sake of it, or out of habitual comfort.
 
 #### Focus & Determination
-![I have a notably high score on the briefly popular single-parameter time drain Flappy Bird](http://i.imgur.com/pI26H7h.jpg =300x "I have a notably high score on the briefly popular single-parameter time drain Flappy Bird")
+
+<img src="http://i.imgur.com/pI26H7h.jpg" width="300" alt="I have a notably high score on the briefly popular single-parameter time drain Flappy Bird"/>
 
 
 
