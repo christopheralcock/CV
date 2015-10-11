@@ -23,7 +23,7 @@ With my lack of longterm experience in coding comes a malleability and eagerness
 
 #### Focus & Determination
 
-<img src="http://i.imgur.com/pI26H7h.jpg" width="300" alt="I have a notably high score on the briefly popular single-parameter time drain Flappy Bird"/>
+<img src="http://i.imgur.com/pI26H7h.jpg" width="300" alt="I have a notably high score on the briefly-popular single-parameter time drain 'Flappy Bird'" title="I have a notably high score on the briefly-popular single-parameter time drain 'Flappy Bird'">
 
 
 
