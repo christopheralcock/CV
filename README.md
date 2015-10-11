@@ -35,7 +35,7 @@ With my lack of longterm experience in coding comes a malleability and eagerness
 - OOP, TDD, SOLID, MVC
 - Software Craftsmanship
 - [Git flow](https://github.com/christopheralcock/live-voting/branches/all)
-- [Ruby](https://github.com/christopheralcock/labweek), [Rails](https://github.com/christopheralcock/live-voting), [Java](https://github.com/christopheralcock/todo_challenge)[Script](http://variousmusicappsofchris.herokuapp.com/omnichord)
+- [Ruby](https://github.com/christopheralcock/labweek), [Rails](https://github.com/christopheralcock/live-voting), [JavaScript](http://variousmusicappsofchris.herokuapp.com/omnichord), [HTML](https://github.com/christopheralcock/todo_challenge)
 - [Rspec](https://github.com/christopheralcock/live-voting/tree/master/spec), [Jasmine](https://github.com/christopheralcock/bowling-challenge/blob/master/spec/ScorecardSpec.js), [Cucumber](https://github.com/christopheralcock/labweek/tree/master/features)
 
 #### Bangor University (September 2003 to July 2006)
