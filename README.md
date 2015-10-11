@@ -6,7 +6,7 @@ I solve problems. Having graduated from Makers Academy in October 2015, I’m lo
 
 #### Problem solving
 
-I’m very good at taking large problems, breaking them down into smaller problems and concisely communicating them to others.  My [final project at Makers][https://github.com/christopheralcock/live-voting] is a decent example of this - I storyboarded the UX which we then used to outside-in BDD the project, coordinating with Waffle cards.
+I’m very good at taking large problems, breaking them down into smaller problems and concisely communicating them to others.  My [final project at Makers](https://github.com/christopheralcock/live-voting) is a decent example of this - I storyboarded the UX which we then used to outside-in BDD the project, coordinating with Waffle cards.
 
 My longterm job experience isn't exciting, hence this career change, but from it I've become adept at getting along with people in an office environment and general soft professional skills, liaising between departments and dealing with exchange students in person. 
 In my personal life I take a lead on organising things and getting people to the right places at the right times - every year I get 30+ friends together for Christmas dinner, and they generally consider it the highlight of their year.  I've also booked tours and sorted out accommodation and transport for bands I've played in. Just top, top organisational and interpersonal skills, my friend.
@@ -15,7 +15,7 @@ In my personal life I take a lead on organising things and getting people to the
 
 I’ve an English degree and used to write music reviews for various websites before the ubiquity of music streaming made descriptive and opinionated writing on music itself fairly redundant.  I retain an ability to sum things up effectively yet thoroughly.
 
-My Medium profile from my time at Makers (https://medium.com/@christopheralcock) demonstrates this fairly well.
+My [Medium profile from my time at Makers](https://medium.com/@christopheralcock) demonstrates this fairly well.
 
 #### Malleability
 
@@ -24,8 +24,6 @@ With my lack of longterm experience in coding comes a malleability and eagerness
 #### Focus & Determination
 
 <img src="http://i.imgur.com/pI26H7h.jpg" width="300" alt="I have a notably high score on the briefly-popular single-parameter time drain 'Flappy Bird'" title="I have a notably high score on the briefly-popular single-parameter time drain 'Flappy Bird'">
-
-
 
 ## Education
 
@@ -36,8 +34,8 @@ With my lack of longterm experience in coding comes a malleability and eagerness
 - OOP, TDD, SOLID, MVC
 - Software Craftsmanship
 - Git flow
-- Ruby[link to que onda?], Rails [final project], Javascript [link to todo]
-- Rspec [link to final project rspec], Jasmine [link to bowling challenge jasmine], Cucumber [link to que onda cucumber]
+- [Ruby](https://github.com/christopheralcock/labweek), [Rails](https://github.com/christopheralcock/live-voting), [Java](https://github.com/christopheralcock/todo_challenge)[Script](http://variousmusicappsofchris.herokuapp.com/omnichord)
+- [Rspec](https://github.com/christopheralcock/live-voting/tree/master/spec), [Jasmine](https://github.com/christopheralcock/bowling-challenge/blob/master/spec/ScorecardSpec.js), [Cucumber](https://github.com/christopheralcock/labweek/tree/master/features)
 
 #### Bangor University (September 2003 to July 2006)
 
