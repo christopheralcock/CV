@@ -53,4 +53,4 @@ With my lack of longterm experience in coding comes a malleability and eagerness
 *Administrative Temp*  
 
 **Last.fm** (March 2008 to September 2008)   
-*Customer Services* 
+*Customer Services for Music Uploading Software* 
