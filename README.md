@@ -33,6 +33,7 @@ http://i.imgur.com/pI26H7h.jpg
 - Independent learner and problem-solver
 - OOP, TDD, SOLID, MVC
 - Software Craftsmanship
+- Git flow
 - Ruby[link to que onda?], Rails [final project], Javascript [link to todo]
 - Rspec [link to final project rspec], Jasmine [link to bowling challenge jasmine], Cucumber [link to que onda cucumber]
 
