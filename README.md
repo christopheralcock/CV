@@ -1,6 +1,6 @@
 ## Christopher Alcock
 
-I solve problems. Having graduated from Makers Academy in October 2015, I’m looking for a junior developer role at a company that values TDD and strong staff development.
+I solve problems. As a recent graduate of Makers Academy, a 100 hours per week, three month long development bootcamp, I’m looking for a junior developer role at a company that values TDD and strong staff development.
 
 ## Skills
 
@@ -10,13 +10,15 @@ I’m very good at taking large problems, breaking them down into smaller proble
 
 My longterm job experience isn't exciting, hence this career change, but from it I've become adept at getting along with people in an office environment and general soft professional skills.  I currently liaise between departments in order to make sure over a thousand incoming Exchange Students are registered on the right modules and their records kept accurate for academic and visa-related reasons.
 
-In my personal life I take a lead on organising things and getting people to the right places at the right times - every year I get 30+ friends together for Christmas dinner, and they generally consider it the highlight of their years.  I've also booked tours and sorted out accommodation and transport for bands I've played in. Just top, top organisational and interpersonal skills, my friend.
+In my personal life I take a lead on organising things and getting people to the right places at the right times - every year I get 30+ friends together for Christmas dinner, and they generally consider it the highlight of their years.  I've also booked tours and sorted out accommodation and transport for bands I've played in.
 
 #### Communication
 
-I’ve an English degree and used to write music reviews for various websites before the ubiquity of music streaming made descriptive and opinionated writing on music itself fairly redundant.  I retain an ability to sum things up effectively yet thoroughly.
+I’ve an English degree and used to write music reviews for various websites, and retain an ability to sum things up effectively yet thoroughly.
 
 My [Medium profile from my time at Makers](https://medium.com/@christopheralcock) demonstrates this fairly well.
+
+I also worked at Last.fm in customer service, communicating between development teams and users, generally without technical backgrounds.
 
 #### Malleability
 
