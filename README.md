@@ -1,6 +1,6 @@
 ## Christopher Alcock
 
-I solve problems. As a recent graduate of Makers Academy, a 100 hours per week, three month long development bootcamp, I’m looking for a junior developer role at a company that values TDD and strong staff development.
+I solve problems. As a recent graduate of Makers Academy, a 100-hour-per-week, three month long development bootcamp, I’m looking for a junior developer role at a company that values TDD and strong staff development.
 
 ## Skills
 
