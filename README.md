@@ -18,7 +18,7 @@ I’ve an English degree and used to write music reviews for various websites, a
 
 My [Medium profile from my time at Makers](https://medium.com/@christopheralcock) demonstrates this fairly well.
 
-I also worked at Last.fm in customer service, communicating between development teams and users, generally without technical backgrounds.
+I also worked at Last.fm in a customer service role, communicating problems between development teams and users, who were generally without technical backgrounds.
 
 #### Malleability
 
