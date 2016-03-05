@@ -6,7 +6,7 @@ I solve problems. As a recent graduate of Makers Academy, a 100-hour-per-week, t
 
 #### Problem solving
 
-I’m very good at taking large problems, breaking them down into smaller problems and concisely communicating them to others.  My [final project at Makers](https://github.com/christopheralcock/live-voting) is a decent example of this - I storyboarded the UX which we then used to outside-in BDD the project, coordinating with Waffle cards.
+I’m very good at taking large problems, breaking them down into smaller problems and concisely communicating them to others.  My [final project at Makers](https://github.com/christopheralcock/live-voting) is a great example of this - I storyboarded the UX which we then used to outside-in BDD the project, coordinating with Waffle cards.
 
 My longterm job experience isn't exciting, hence this career change, but from it I've become adept at getting along with people in an office environment and general soft professional skills.  I currently liaise between departments in order to make sure over a thousand incoming Exchange Students are registered on the right modules and their records kept accurate for academic and visa-related reasons.
 
