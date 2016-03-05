@@ -8,7 +8,7 @@ I solve problems. As a recent graduate of Makers Academy, a 100-hour-per-week, t
 
 I’m very good at taking large problems, breaking them down into smaller problems and concisely communicating them to others.  My [final project at Makers](https://github.com/christopheralcock/live-voting) is a great example of this - I storyboarded the UX which we then used to outside-in BDD the project, coordinating with Waffle cards.
 
-My longterm job experience isn't exciting, hence this career change, but from it I've become adept at getting along with people in an office environment and general soft professional skills.  I currently liaise between departments in order to make sure over a thousand incoming Exchange Students are registered on the right modules and their records kept accurate for academic and visa-related reasons.
+My longterm job background is in Higher Education administation and data processing, and from it I've become adept at getting along with people in an office environment, organisation and planning.  I currently liaise between departments in order to make sure over a thousand incoming Exchange Students are registered on the right modules and their records kept accurate for academic and visa-related reasons.
 
 In my personal life I take a lead on organising things and getting people to the right places at the right times - every year I get 30+ friends together for Christmas dinner, and they generally consider it the highlight of their years.  I've also booked tours and sorted out accommodation and transport for bands I've played in.
 
