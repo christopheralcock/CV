@@ -22,7 +22,7 @@ I also worked at [Last.fm](http://last.fm) in a customer service role, communica
 
 #### Commitment
 
-In taking three months off my job and paying for the Makers Academy course, I've demonstrated huge commitment to trying to become the best developer I can become.  I'm very excited to get the chance to start afresh in a career in which there's no limit to the things you can learn, the people you can learn from and the problems you can solve.  Since the course, along with trying to solidify what I've learnt, I've been attending meetups and hackathons, exposing myself to new concepts and meeting new people, as well as winning [prizes](https://www.linkedin.com/pulse/ev-hackathon-you-say-whats-all-richard-fish).
+In taking three months unpaid leave from job and paying for the Makers Academy course, I've demonstrated huge commitment to trying to become the best developer I can.  I'm very excited to get the chance to start afresh in a career in which there's no limit to the things you can learn, the people you can learn from and the problems you can solve.  Since the course, along with trying to solidify what I've learnt, I've been attending meetups and hackathons, exposing myself to new concepts and meeting new people, as well as winning [prizes](https://www.linkedin.com/pulse/ev-hackathon-you-say-whats-all-richard-fish).
 
 
 #### Focus & Determination
