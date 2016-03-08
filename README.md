@@ -20,9 +20,10 @@ My [Medium profile from my time at Makers](https://medium.com/@christopheralcock
 
 I also worked at [Last.fm](http://last.fm) in a customer service role, communicating problems between development teams and users, who were generally without technical backgrounds.
 
-#### Malleability
+#### Commitment
 
-With my lack of longterm experience in coding comes a malleability and eagerness to learn new things, giving any company that hires me the opportunity to shape me in the image of their ideal developer.  I know exactly how one would use Rails to get a site up and working but have no interest in using it just for the sake of it, or out of habitual comfort.
+In taking three months off my job and paying for the Makers Academy course, I've demonstrated huge commitment to trying to become the best developer I can become.  I'm very excited to get the chance to start afresh in a career in which there's no limit to the things you can learn, the people you can learn from and the problems you can solve.  Since the course, along with trying to solidify what I've learnt, I've been attending meetups and hackathons, exposing myself to new concepts and meeting new people, as well as winning [prizes](https://www.linkedin.com/pulse/ev-hackathon-you-say-whats-all-richard-fish).
+
 
 #### Focus & Determination
 
