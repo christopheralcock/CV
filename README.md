@@ -14,7 +14,7 @@ In my personal life I take a lead on organising things and getting people to the
 
 #### Communication
 
-I’ve an English degree and used to write music reviews for various websites, and retain an ability to sum things up effectively yet thoroughly.
+I have an English degree and used to write music reviews for various websites.  This has given me the ability to sum things up efficiently, yet thoroughly.
 
 My [Medium profile from my time at Makers](https://medium.com/@christopheralcock) demonstrates this fairly well.
 
