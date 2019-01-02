@@ -1,16 +1,13 @@
 ## Christopher Alcock
 
-I solve problems. As a recent graduate of Makers Academy, a 100-hour-per-week, three month long development bootcamp, I’m looking for a junior developer role at a company that values TDD and strong staff development.
+Software Engineer at UK Parliamentary Digital Service, focussing on data, particularly in the context of Graph Databases. 
+I'm looking to further hone my software engineering skills.
 
 ## Skills
 
-#### Problem solving
+#### Data Modelling
 
-I’m very good at taking large problems, breaking them down into smaller problems and concisely communicating them to others.  My [final project at Makers](https://github.com/christopheralcock/live-voting) is a great example of this - I storyboarded the UX which we then used to outside-in BDD the project, coordinating with Waffle cards.
-
-My longterm job background is in Higher Education administation and data processing, and from it I've become adept at getting along with people in an office environment, organisation and planning.  I currently liaise between departments in order to make sure over a thousand incoming Exchange Students are registered on the right modules and their records kept accurate for academic and visa-related reasons.
-
-In my personal life I take a lead on organising things and getting people to the right places at the right times - every year I get 30+ friends together for Christmas dinner, and they generally consider it the highlight of their years.  I've also booked tours and sorted out accommodation and transport for bands I've played in.
+My main focus whilst working for PDS has been on the development and maintenance of our Ontology.
 
 #### Communication
 
@@ -49,7 +46,10 @@ In taking three months unpaid leave from job and paying for the Makers Academy c
 
 ## Experience
 
-**King’s College London** (December 2011 to Present)    
+**UK Parliamentary Digital Service** (November 2016 to Present)    
+*Software Engineer*  
+
+**King’s College London** (December 2011 to November 2016)    
 *Exchange Student Records Officer*  
 
 **Prospectus** (October 2008 to December 2011)    
