@@ -1,25 +1,23 @@
 ## Christopher Alcock
 
-Software Engineer at UK Parliamentary Digital Service, focussing on data, particularly in the context of Graph Databases. 
+Software Engineer at UK Parliamentary Digital Service (PDS), focussing on data, particularly in the context of Graph Databases. 
 I'm looking to further hone my software engineering skills.
 
 ## Skills
 
 #### Data Modelling
 
-My main focus whilst working for PDS has been on the development and maintenance of our Ontology.
+My main focus whilst working for PDS has been on the development and maintenance of our Graph Database [Ontology](https://github.com/christopheralcock/Ontology).  As well as contributing to the [theoretical modelling work of the Parliamentary domain](https://github.com/christopheralcock/Ontologies) I have lead on applying these models in the database.
 
 #### Communication
+
+In my time in the PDS Data & Search team I have been the main point of contact for the team building the new Parliamentary website, communicating our progress and offering support with our Data Platform's APIs.
 
 I have an English degree and used to write music reviews for various websites.  This has given me the ability to sum things up efficiently, yet thoroughly.
 
 My [Medium profile from my time at Makers](https://medium.com/@christopheralcock) demonstrates this fairly well.
 
 I also worked at [Last.fm](http://last.fm) in a customer service role, communicating problems between development teams and users, who were generally without technical backgrounds.
-
-#### Commitment
-
-In taking three months unpaid leave from job and paying for the Makers Academy course, I've demonstrated huge commitment to trying to become the best developer I can.  I'm very excited to get the chance to start afresh in a career in which there's no limit to the things you can learn, the people you can learn from and the problems you can solve.  Since the course, along with trying to solidify what I've learnt, I've been attending meetups and hackathons, exposing myself to new concepts and meeting new people, as well as winning [prizes](https://www.linkedin.com/pulse/ev-hackathon-you-say-whats-all-richard-fish).
 
 
 ## Education
