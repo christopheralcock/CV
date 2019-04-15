@@ -1,1 +1,1 @@
-Please see my linkedin: https://www.linkedin.com/in/christopher.alcock
+Please see my linkedin (requires log in): https://www.linkedin.com/in/christopher.alcock
